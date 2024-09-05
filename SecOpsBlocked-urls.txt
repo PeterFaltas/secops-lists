@@ -426,3 +426,6 @@ invover.com # mirai activity
 f7slx.top # XSOAR 45656
 googie-anaiytlcs.com #Xsoar53317
 rrevp.com
+https://browser-intake-datadoghq.com/
+http://connectivitycheck.getdropbox.com/client/ping_http
+https://rtb.chan/
