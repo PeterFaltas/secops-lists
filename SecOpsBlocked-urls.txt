@@ -429,3 +429,4 @@ rrevp.com
 https://browser-intake-datadoghq.com/
 http://connectivitycheck.getdropbox.com/client/ping_http
 https://rtb.chan/
+otter.ai
